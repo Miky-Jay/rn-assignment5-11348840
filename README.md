@@ -40,10 +40,17 @@ npm install @react-navigation/native @react-navigation/bottom-tabs @react-naviga
 
 ```
 
-### Screenshots
+## Screenshots
 
-![Home Screen](screenshots/home-screen.png)
-![Settings Screen](screenshots/settings-screen.png)
+c:\Users\Mikaela-Jessie\Pictures\Screenshots\Screenshot 2024-06-26 231429.png
+
+rn-assignment5-11348840/IMG-20240626-WA0029.jpg
+
+rn-assignment5-11348840/IMG-20240626-WA0030.jpg
+
+rn-assignment5-11348840/IMG-20240626-WA0031.jpg
+
+rn-assignment5-11348840/IMG-20240626-WA0032.jpg
 
 ### Custom Components
 
